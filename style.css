@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    
+}
+*{
+    
+    margin: 0px;
+    padding: 0px; 
+}
+ul li{
+    color: white;
+    margin-left: 60px;
+    
+}
+  h2,h4{
+    color: red;
+    margin: 30px;
+  }  
+
+h1{
+    float: left;
+    color: black;
+    margin-top: 20px;
+}
+#container{
+    background-color: red;
+    height: 70px;
+     margin: 0px; 
+    
+}
+#two li{
+    display: inline;
+    margin-left: 20px;    
+    float: right; 
+    margin-top: 30px;
+    list-style-type: none;
+    cursor: pointer;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    transition:0.5s ;
+}
+div{
+    margin-left: 60px;
+}
+
